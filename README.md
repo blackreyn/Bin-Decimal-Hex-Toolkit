@@ -3,9 +3,9 @@ Este repositorio contiene una colección de calculadoras para convertir entre di
 
 ✅ Calculadoras Incluidas
 
-Decimal → Binario
-Binario → Decimal
-Decimal → Hexadecimal
-Hexadecimal → Binario
+Decimal → Binario |
+Binario → Decimal |
+Decimal → Hexadecimal |
+Hexadecimal → Binario |
 
 Desarrollado con ❤️ por https://github.com/blackreyn
